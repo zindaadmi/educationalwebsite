@@ -1,2 +1,2 @@
 # Educational Website
-Working Demo
+Working Demo of a website, made using HTML and PHP
